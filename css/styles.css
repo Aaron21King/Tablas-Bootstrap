@@ -1,0 +1,23 @@
+/* .bg-primary {
+    background-color: #000 !important;
+} */
+h2{
+    text-align: center;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-primary {
+    background-color: #000 !important;
+    margin-bottom: 2rem;
+}
+
+
+
+.row {
+   /* outline: solid darkblue;*/
+    padding: 1em;
+}
+
+.col {
+    outline: solid black;
+    min-height: 50px;
+}
